@@ -6,4 +6,3 @@ tmp/*.log
 *.csv
 coverage
 .DS_Store
-tags
